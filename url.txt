@@ -1,0 +1,7 @@
+http://codh.rois.ac.jp/north-china-railway/iiif/color/3601-001705-0.tif/info.json
+http://codh.rois.ac.jp/north-china-railway/iiif/color/3601-001706-0.tif/info.json
+http://codh.rois.ac.jp/north-china-railway/iiif/color/3601-001707-0.tif/info.json
+http://codh.rois.ac.jp/north-china-railway/iiif/color/3601-001709-0.tif/info.json
+http://codh.rois.ac.jp/north-china-railway/iiif/color/3601-001710-0.tif/info.json
+http://codh.rois.ac.jp/north-china-railway/iiif/color/3601-001711-0.tif/info.json
+http://codh.rois.ac.jp/north-china-railway/iiif/color/3601-001718-0.tif/info.json
